@@ -1,0 +1,115 @@
+
+.footer-text h1{
+    font-size: 55px;
+    font-weight: 500;
+    line-height: 61px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    margin-top: 150px;
+  }
+  .footer-text h4{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.02em;
+    margin-right: 150px;
+    text-align: right;
+    margin-top: 45px;
+  }
+  .button{
+      width: 243px;
+      height: 68px;
+      padding: 22px 50px;
+      gap: 10px;
+      background-color: #6E9C9F;
+      color: white;
+      margin-top: 50px;
+  }
+  .footer-text img{
+      display: flex;
+      position: relative;
+      margin-top: 150px;
+      margin-left: 40px;
+  }
+  .one{
+    content: ''; 
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    width: 42%; 
+    z-index: -1; 
+  }
+  
+  .three{
+    position: absolute;
+    z-index: 1;
+    top: 430px;
+    left: 730px;
+  }
+  .four{
+    position: absolute;
+    z-index: 1;
+    top: 186px;
+    left: 1140px;
+  }
+  /* .product1{
+    display: flex;
+    justify-content: space-between;
+  } */
+  .card1{
+    margin-top: 100px;
+  }
+  .card2{
+    margin-top: 130px;
+  }
+  .ash{
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+    margin-top: 150px;
+  }
+  .card2-info img{
+    margin-top: 90px;
+  }
+  .twt{
+    margin-left: 130px;
+  }
+  .tht{
+    margin-left: 90px;
+  }
+  .card3-info{
+    margin-top: 90px;
+    display: flex;
+  }
+  .card3-text h4{
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0.02em;
+    text-align: left;
+  }
+  .card3-text{
+    margin-left: 200px;
+    margin-top: 100px;
+  }
+  .p1{
+    font-size: 17px;
+  font-weight: 500;
+  line-height: 23.8px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin-top: 25px;
+  }
+  .p2{
+    font-size: 17px;
+  font-weight: 500;
+  line-height: 23.8px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin-top: 25px;
+  }
+  .futer{
+    width: 100%;
+    margin-top: 100px;
+  }

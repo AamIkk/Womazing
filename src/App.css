@@ -1,0 +1,108 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+nav{
+  margin-top: 2%;
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 3%;
+  align-items: center;
+}
+.nav-links{
+  display: flex;
+  justify-content: space-around;
+}
+.nav-info{
+  display: flex;
+  justify-content: space-between;
+
+}
+.navLink{
+  text-decoration: none;
+  color: black;
+}
+.footer-block{
+  display: flex;
+  justify-content: space-around;
+}
+.ura{
+  margin-top: 50px;
+}
+.about{ 
+  margin-top: 5rem; 
+ /* justify-content: space-between; */ 
+} 
+
+#p{ 
+  margin-left: 140px; 
+  margin-top: -27px; 
+} 
+
+.text1{ 
+  margin-left: 545px; 
+ 
+  margin-top: -420px; 
+} 
+
+.text1 h6{ 
+  margin-top: 2rem; 
+} 
+
+.text2 h6{ 
+  margin-top: 2rem; 
+} 
+
+.about-2 img { 
+margin-left: 50rem; 
+margin-top: 15rem; 
+} 
+
+.text2{ 
+  margin-top: -420px; 
+} 
+
+.about-1{ 
+  margin-top: 10rem; 
+}
+.o-contakte { 
+  margin-top: 5rem; 
+  width: 1109px; 
+  height: 476px; 
+ background-color: rgba(221, 221, 221, 1); 
+  display: flex; 
+  justify-content: center;  
+  align-items: center;  
+  /* height: 100vh;  */ 
+} 
+
+.phon-email{ 
+  margin-top: 5rem; 
+   display: flex; 
+   gap: 100px; 
+} 
+
+.phon-email h6{ 
+  margin-top: 1rem; 
+} 
+
+.emails{ 
+margin-top: 5rem; 
+}
+.h11{
+    margin-top: 50px;
+}
+.h12{
+    margin-bottom: 70px;
+}
+#btnn{
+  margin-left: 400px;
+}
+.p11{
+  color: #6E9C9F;
+}
